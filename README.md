@@ -1,4 +1,5 @@
 # Machine learning task
+Project done in collaboration with [Błażej Ejzak](https://github.com/Blaczumba).
 
 ## Task
 The task was to create a model to select best cache level for all music tracks for the next 24 hours.
