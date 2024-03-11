@@ -1,0 +1,7 @@
+code.ipynb
+*.pyc
+*.__pycache__
+pretrained
+data_v2
+*.zip
+results
