@@ -11,12 +11,12 @@ Data directiories contain available data, results_xgb directiory contains predic
 You have to be in the app directory to run the app
 ```bash
  cd app
- pip install-r requirements.txt
- uvicorn main:app--reload
+ pip install -r requirements.txt
+ uvicorn main:app --reload
 ```
 
 ## Used libraries
 * FastAPI for the app itself
 * xgboost and Pytorch for the models
 * pandas and numpy for data analysis
-* matplotlib and seaborn for plot creation
+* matplotlib and seaborn for data visualization
